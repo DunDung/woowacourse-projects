@@ -6,7 +6,7 @@
 
 
 
->  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
+>  2020.02.04 ~ 2020.11.27 [우아한테크코스](https://woowacourse.github.io/)에서 둔덩이라는 닉네임으로 학습하고 활동한 내용을 정리하는 Repository
 
 <br/>
 
@@ -95,7 +95,6 @@
 | 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/lxxjn0/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/20) |
 |  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/lxxjn0/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/55) |
 |    사용자 이야기     | [woowa-userstory-2020](https://github.com/lxxjn0/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/45) |
-|      Todo List       |        [todolist](https://github.com/lxxjn0/todolist)        |                       comming soon...                        |
 
 <br/>
 
@@ -131,6 +130,7 @@
 ### 서비스
 
 - [미소 데모 사이트](https://sites.google.com/woowahan.com/wooteco-demo/%EB%AF%B8%EC%86%8C)
+- [당신이 모르는 그곳, 미소](https://themiso.kr/)
 
 ### Github Repository
 
