@@ -6,7 +6,7 @@
 
 
 
->  2020.02.04 ~ 2020.11.27 [우아한테크코스](https://woowacourse.github.io/)에서 둔덩이라는 닉네임으로 학습하고 활동한 내용을 정리하는 Repository
+>  2020.02.04 ~ 2020.11.27 [우아한테크코스](https://woowacourse.github.io/)에서 '둔덩'으로 활동하고 학습한 내용을 정리하는 Repository
 
 <br/>
 
