@@ -189,6 +189,7 @@
 ### 서비스
 
 - [Javable 블로그](https://woowacourse.github.io/javable/)
+- [둔덩 글모음](https://woowacourse.github.io/javable/author/둔덩/)
 
 ### Github Repository
 
@@ -198,18 +199,16 @@
 
 - [기능 구현 - 블로그 글 공유 기능](https://github.com/woowacourse/javable/pull/217)
 - [블로그 글 알림을 받기 위한 RSS 추가](https://github.com/woowacourse/javable/pull/151)
-- [둔덩 글모음](https://woowacourse.github.io/javable/author/둔덩/)
-    - [포스팅 - null 반환보다는 Optional을 활용하자](https://woowacourse.github.io/javable/post/2020-04-21-optional-vs-null)
-    - [포스팅 - 하드코딩을 피해라.](https://woowacourse.github.io/javable/post/2020-05-07-avoid-hard-coding)
-    - [포스팅 - 상속보다는 조합(Composition)을 사용하자.](https://woowacourse.github.io/javable/post/2020-05-18-inheritance-vs-composition)
-    - [포스팅 - 디미터 법칙(Law of Demeter)](https://woowacourse.github.io/javable/post/2020-06-02-law-of-demeter)
-    - [포스팅 - String 클래스를 조심히 사용하자.](https://woowacourse.github.io/javable/post/2020-06-15-String-vs-StringBuilder-vs-StringBuffer)
-    - [포스팅 - Reflection API 간단히 알아보자.](https://woowacourse.github.io/javable/post/2020-07-16-reflection-api)
-    - [포스팅 - equals와 hashCode는 왜 같이 재정의해야 할까?](https://woowacourse.github.io/javable/post/2020-07-29-equals-and-hashCode)
-    - [포스팅 - MockMvc VS RestAssured](https://woowacourse.github.io/javable/post/2020-08-19-rest-assured-vs-mock-mvc)
-    - [포스팅 - 자바 반복문 알고 쓰자!](https://woowacourse.github.io/javable/post/2020-08-31-java-loop)
-    - [포스팅 - 자바 빌드 도구](https://woowacourse.github.io/javable/post/2020-09-17-java-build-tool)
-    - [포스팅 - Collection.forEach와 Stream.forEach는 뭐가 다를까?](https://woowacourse.github.io/javable/post/2020-09-30-collection-stream-for-each)
-    - [포스팅 - 몸체가 비어있는 무한 루프](https://woowacourse.github.io/javable/post/2020-10-19-empty-infinite-loop)
-    - [포스팅 - 자바 제네릭(Generics) 기초](https://woowacourse.github.io/javable/post/2020-11-09-generics-basic)
-
+- [포스팅 - null 반환보다는 Optional을 활용하자](https://woowacourse.github.io/javable/post/2020-04-21-optional-vs-null)
+- [포스팅 - 하드코딩을 피해라.](https://woowacourse.github.io/javable/post/2020-05-07-avoid-hard-coding)
+- [포스팅 - 상속보다는 조합(Composition)을 사용하자.](https://woowacourse.github.io/javable/post/2020-05-18-inheritance-vs-composition)
+- [포스팅 - 디미터 법칙(Law of Demeter)](https://woowacourse.github.io/javable/post/2020-06-02-law-of-demeter)
+- [포스팅 - String 클래스를 조심히 사용하자.](https://woowacourse.github.io/javable/post/2020-06-15-String-vs-StringBuilder-vs-StringBuffer)
+- [포스팅 - Reflection API 간단히 알아보자.](https://woowacourse.github.io/javable/post/2020-07-16-reflection-api)
+- [포스팅 - equals와 hashCode는 왜 같이 재정의해야 할까?](https://woowacourse.github.io/javable/post/2020-07-29-equals-and-hashCode)
+- [포스팅 - MockMvc VS RestAssured](https://woowacourse.github.io/javable/post/2020-08-19-rest-assured-vs-mock-mvc)
+- [포스팅 - 자바 반복문 알고 쓰자!](https://woowacourse.github.io/javable/post/2020-08-31-java-loop)
+- [포스팅 - 자바 빌드 도구](https://woowacourse.github.io/javable/post/2020-09-17-java-build-tool)
+- [포스팅 - Collection.forEach와 Stream.forEach는 뭐가 다를까?](https://woowacourse.github.io/javable/post/2020-09-30-collection-stream-for-each)
+- [포스팅 - 몸체가 비어있는 무한 루프](https://woowacourse.github.io/javable/post/2020-10-19-empty-infinite-loop)
+- [포스팅 - 자바 제네릭(Generics) 기초](https://woowacourse.github.io/javable/post/2020-11-09-generics-basic)
