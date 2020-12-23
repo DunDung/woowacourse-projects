@@ -18,11 +18,11 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/lxxjn0/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/192) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/lxxjn0/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/181) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/lxxjn0/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/80) |
+|     Project      |                         Pull Request                         |
+| :--------------: | :----------------------------------------------------------: |
+|  숫자 야구 게임  | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/192) |
+| 자동차 경주 게임 |[Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/181) |
+|      블랙잭      | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/80) |
 
 <br/>
 
@@ -34,9 +34,9 @@
 
 ### 진행 미션
 
-| Project |                          Repository                          |                         Pull Request                         |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/lxxjn0/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/24) |
+| Project |                         Pull Request                         |
+| :-----: | :----------------------------------------------------------: |
+| 치킨집  | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/24) |
 
 <br/>
 
@@ -55,17 +55,17 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/lxxjn0/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/46) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/lxxjn0/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/101) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/lxxjn0/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/160) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/lxxjn0/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/182) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/lxxjn0/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/40) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/lxxjn0/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/85) |
-|   체스 / step1   | [java-chess/step1](https://github.com/lxxjn0/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/91) |
-|   체스 / step2   | [java-chess/step2](https://github.com/lxxjn0/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/132) |
-|   90년생 HTML    |            [html](https://github.com/lxxjn0/html)            | [Pull Request](https://github.com/woowacourse/html/pull/22)  |
+|     Project      |                         Pull Request                         |
+| :--------------: | :----------------------------------------------------------: |
+|  문자열 계산기   | [Pull Request](https://github.com/woowacourse/java-calculator/pull/46) |
+| 자동차 경주 게임 | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/101) |
+|   로또 / step1   | [Pull Request](https://github.com/woowacourse/java-lotto/pull/160) |
+|   로또 / step2   | [Pull Request](https://github.com/woowacourse/java-lotto/pull/182) |
+|  블랙잭 / step1  | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/40) |
+|  블랙잭 / step2  | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/85) |
+|   체스 / step1   | [Pull Request](https://github.com/woowacourse/java-chess/pull/91) |
+|   체스 / step2   | [Pull Request](https://github.com/woowacourse/java-chess/pull/132) |
+|   90년생 HTML    | [Pull Request](https://github.com/woowacourse/html/pull/22)  |
 
 <br/>
 
@@ -84,17 +84,17 @@
 
 ### 진행 미션
 
-|       Project        |                          Repository                          |                         Pull Request                         |
-| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/lxxjn0/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/31) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/88) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/lxxjn0/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/131) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/lxxjn0/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/213) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/lxxjn0/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/11) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/lxxjn0/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/31) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/lxxjn0/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/20) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/lxxjn0/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/55) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/lxxjn0/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/45) |
+|       Project        |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: |
+|     체스 / step1     | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/31) |
+|     체스 / step2     | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/88) |
+|     체스 / step3     | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/131) |
+|     체스 / step4     | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/213) |
+|   지하철 정보 관리   | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/11) |
+|   지하철 경로 조회   | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/31) |
+| 지하철 경로 즐겨찾기 | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/20) |
+|  지하철 Admin CRUD   | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/55) |
+|    사용자 이야기     | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/45) |
 
 <br/>
 
@@ -160,7 +160,14 @@
 
 ### 진행 미션
 
-- comming soon...
+|       Project        |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: |
+|     리팩토링 / step1     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/37) |
+|     리팩토링 / step2     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/68) |
+|     리팩토링 / step3     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/98) |
+|     was 구현 / step1     | [Pull Request](https://github.com/woowacourse/jwp-was/pull/121) |
+|     was 구현 / step2     | [Pull Request](https://github.com/woowacourse/jwp-was/pull/151) |
+|     was 구현 / step3     | [Pull Request](https://github.com/woowacourse/jwp-was/pull/220) |
 
 <br/>
 
@@ -186,22 +193,23 @@
 ### Github Repository
 
 - [javable](https://github.com/woowacourse/javable)
+- [둔덩 글모음](https://woowacourse.github.io/javable/author/둔덩/)
 
 ### 활동 내용
 
 - [기능 구현 - 블로그 글 공유 기능](https://github.com/woowacourse/javable/pull/217)
 - [블로그 글 알림을 받기 위한 RSS 추가](https://github.com/woowacourse/javable/pull/151)
-- [포스팅 - null 반환보다는 Optional을 활용하자](https://woowacourse.github.io/javable/2020-04-21/optional-vs-null)
-- [포스팅 - 하드코딩을 피해라.](https://woowacourse.github.io/javable/2020-05-07/avoid-hard-coding)
-- [포스팅 - 상속보다는 조합(Composition)을 사용하자.](https://woowacourse.github.io/javable/2020-05-18/inheritance-vs-composition)
-- [포스팅 - 디미터 법칙(Law of Demeter)](https://woowacourse.github.io/javable/2020-06-02/law-of-demeter)
-- [포스팅 - String 클래스를 조심히 사용하자.](https://woowacourse.github.io/javable/2020-06-15/String-vs-StringBuilder-vs-StringBuffer)
-- [포스팅 - Reflection API 간단히 알아보자.](https://woowacourse.github.io/javable/2020-07-16/reflection-api)
-- [포스팅 - equals와 hashCode는 왜 같이 재정의해야 할까?](https://woowacourse.github.io/javable/2020-07-29/equals-and-hashCode)
-- [포스팅 - MockMvc VS RestAssured](https://woowacourse.github.io/javable/2020-08-19/rest-assured-vs-mock-mvc)
-- [포스팅 - 자바 반복문 알고 쓰자!](https://woowacourse.github.io/javable/2020-08-31/java-loop)
-- [포스팅 - 자바 빌드 도구](https://woowacourse.github.io/javable/2020-09-17/java-build-tool)
-- [포스팅 - Collection.forEach와 Stream.forEach는 뭐가 다를까?(진행중)](#)
-- [포스팅 - 몸체가 비어있는 무한 루프(진행중)](#)
-- [포스팅 - 자바 제네릭(Generics) 기초(진행중)](#)
+- [포스팅 - null 반환보다는 Optional을 활용하자](https://woowacourse.github.io/javable/post/2020-04-21-optional-vs-null)
+- [포스팅 - 하드코딩을 피해라.](https://woowacourse.github.io/javable/post/2020-05-07-avoid-hard-coding)
+- [포스팅 - 상속보다는 조합(Composition)을 사용하자.](https://woowacourse.github.io/javable/post/2020-05-18-inheritance-vs-composition)
+- [포스팅 - 디미터 법칙(Law of Demeter)](https://woowacourse.github.io/javable/post/2020-06-02-law-of-demeter)
+- [포스팅 - String 클래스를 조심히 사용하자.](https://woowacourse.github.io/javable/post/2020-06-15-String-vs-StringBuilder-vs-StringBuffer)
+- [포스팅 - Reflection API 간단히 알아보자.](https://woowacourse.github.io/javable/post/2020-07-16-reflection-api)
+- [포스팅 - equals와 hashCode는 왜 같이 재정의해야 할까?](https://woowacourse.github.io/javable/post/2020-07-29-equals-and-hashCode)
+- [포스팅 - MockMvc VS RestAssured](https://woowacourse.github.io/javable/post/2020-08-19-rest-assured-vs-mock-mvc)
+- [포스팅 - 자바 반복문 알고 쓰자!](https://woowacourse.github.io/javable/post/2020-08-31-java-loop)
+- [포스팅 - 자바 빌드 도구](https://woowacourse.github.io/javable/post/2020-09-17-java-build-tool)
+- [포스팅 - Collection.forEach와 Stream.forEach는 뭐가 다를까?](https://woowacourse.github.io/javable/post/2020-09-30-collection-stream-for-each)
+- [포스팅 - 몸체가 비어있는 무한 루프](https://woowacourse.github.io/javable/post/2020-10-19-empty-infinite-loop)
+- [포스팅 - 자바 제네릭(Generics) 기초](https://woowacourse.github.io/javable/post/2020-11-09-generics-basic)
 
