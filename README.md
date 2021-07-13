@@ -164,7 +164,7 @@
 | :------------------: | :----------------------------------------------------------: |
 |     리팩토링 / step1     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/37) |
 |     리팩토링 / step2     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/68) |
-|     리팩토링 / step3     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/98) |
+|     리팩토링 / step3     | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/93) |
 |     was 구현 / step1     | [Pull Request](https://github.com/woowacourse/jwp-was/pull/121) |
 |     was 구현 / step2     | [Pull Request](https://github.com/woowacourse/jwp-was/pull/151) |
 |     was 구현 / step3     | [Pull Request](https://github.com/woowacourse/jwp-was/pull/220) |
